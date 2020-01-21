@@ -29,4 +29,4 @@ Contribute!
 -----------
 
 SynBioPython is developed collectively by members of the Global Biofoundries
-Alliance and released on Github under the MIT license. Constributions are welcome!
+Alliance and released on Github under the MIT license. Contributions are welcome!
